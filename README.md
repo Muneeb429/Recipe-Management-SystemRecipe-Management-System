@@ -1,5 +1,6 @@
-# Recipe-Management-SystemRecipe-Management-System
-Recipe Management System By Muneeb &amp; Sameer
+# Recipe-Management-SystemRecipe-Management-System 
+Recipe Management System By Muneeb &amp; Sameer 
+Softare Requirment Specification
 *Software Requirements Specification (SRS) for Recipe Sharing Platform*
 
 1. *Introduction:*
